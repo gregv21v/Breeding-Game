@@ -20,10 +20,6 @@ class Creature(var id: Int, var pApp: PApplet) {
    	var attractedTo: Array[String] = Array()
    	var odor: String = ""
    
-
-  
-  
-  
   
    	def fromDNA(in_dna: String) {      
        color = pApp.color(

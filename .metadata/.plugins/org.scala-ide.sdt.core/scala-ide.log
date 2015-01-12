@@ -8,3 +8,78 @@
 2015-01-08 16:25:48,620  WARN [Worker-18] - ScalaProject - Project Breeding Game runs on platform default installation.
 2015-01-08 16:27:46,946  WARN [Worker-22] - ScalaProject - Project Breeding Game has platform default sourceLevel.
 2015-01-08 16:27:46,946  WARN [Worker-22] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 14:47:41,954  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 14:47:41,955  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:24:18,616  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:24:18,618  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:25:16,715  WARN [Worker-4] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:25:16,715  WARN [Worker-4] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:26:38,285  WARN [Worker-4] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:26:38,286  WARN [Worker-4] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:28:41,297  WARN [Worker-5] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:28:41,298  WARN [Worker-5] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:30:14,080  WARN [Worker-5] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:30:14,080  WARN [Worker-5] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:30:30,934  WARN [Worker-13] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:30:30,936  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:30:57,537  WARN [Worker-11] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:30:57,538  WARN [Worker-11] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:31:17,290  WARN [Worker-17] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:31:17,290  WARN [Worker-17] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:31:20,227  WARN [Worker-13] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:31:20,228  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:31:48,693  WARN [Worker-13] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:31:48,693  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:36:14,155  WARN [Worker-22] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:36:14,156  WARN [Worker-22] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:36:43,422  WARN [Worker-8] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:36:43,422  WARN [Worker-8] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:37:40,720 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-10 17:37:40,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-10 17:37:40,740 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-10 17:37:40,741 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-10 17:42:46,037  WARN [Worker-24] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:42:46,038  WARN [Worker-24] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:46:51,445 ERROR [Worker-32] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-01-10 17:46:51,446 ERROR [Worker-32] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-01-10 17:46:51,446 ERROR [Worker-32] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-01-10 17:47:41,951  WARN [Worker-29] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:47:41,952  WARN [Worker-29] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:47:42,857  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:42,858  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:42,858  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:42,861  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:49,011  WARN [Worker-35] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:47:49,011  WARN [Worker-35] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:47:49,792  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:49,794  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:49,795  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:47:49,796  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:49:25,873  WARN [Worker-31] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:49:25,874  WARN [Worker-31] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:49:31,394  WARN [Worker-32] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:49:31,394  WARN [Worker-32] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 17:49:32,320  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-01-10 17:51:26,733  WARN [Worker-25] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 17:51:26,734  WARN [Worker-25] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:00:14,402  WARN [Worker-44] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:00:14,403  WARN [Worker-44] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:01:14,553  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:01:14,554  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:06:29,809 ERROR [Worker-9] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-01-10 18:06:29,809 ERROR [Worker-9] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-01-10 18:06:29,809 ERROR [Worker-9] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-01-10 18:07:07,037  WARN [Worker-10] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:07:07,037  WARN [Worker-10] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:07:26,151  WARN [Worker-12] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:07:26,152  WARN [Worker-12] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:07:32,521  WARN [Worker-11] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:07:32,521  WARN [Worker-11] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:07:52,502  WARN [Worker-3] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:07:52,502  WARN [Worker-3] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:08:10,946  WARN [Worker-13] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:08:10,946  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:08:25,566  WARN [Worker-13] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:08:25,566  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-10 18:10:17,076  WARN [Worker-6] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-10 18:10:17,077  WARN [Worker-6] - ScalaProject - Project Breeding Game runs on platform default installation.

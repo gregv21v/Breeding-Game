@@ -6,11 +6,7 @@ import scala.collection.mutable._
 class World(var pApp: PApplet) {
 	val CREATURE_COUNT = 2;
 	val creatures = Array.ofDim[Creature](CREATURE_COUNT)
-  
- 
-  
-  
-  
+
   
 	for(i <- 0 until CREATURE_COUNT)
 	{
@@ -51,6 +47,7 @@ class World(var pApp: PApplet) {
        creatures(i).move
     }
     
+   
   }
   
   def print {
