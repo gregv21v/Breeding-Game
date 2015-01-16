@@ -83,3 +83,46 @@
 2015-01-10 18:08:25,566  WARN [Worker-13] - ScalaProject - Project Breeding Game runs on platform default installation.
 2015-01-10 18:10:17,076  WARN [Worker-6] - ScalaProject - Project Breeding Game has platform default sourceLevel.
 2015-01-10 18:10:17,077  WARN [Worker-6] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-11 20:13:48,553  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-11 20:13:48,556  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-11 20:18:22,691 ERROR [Worker-0] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-01-11 20:18:22,692 ERROR [Worker-0] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-01-11 20:18:22,692 ERROR [Worker-0] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-01-12 15:00:34,694  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-12 15:00:34,695  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-12 16:10:35,545  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-12 16:10:35,547  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-12 16:13:14,893  WARN [Worker-3] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-12 16:13:14,893  WARN [Worker-3] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-12 16:13:20,148  WARN [Worker-3] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-12 16:13:20,149  WARN [Worker-3] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-12 16:31:21,699  WARN [Worker-9] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-12 16:31:21,700  WARN [Worker-9] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-12 16:31:24,550 ERROR [Worker-11] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-01-12 16:31:24,550 ERROR [Worker-11] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-01-12 16:31:24,550 ERROR [Worker-11] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-01-15 17:18:06,009  WARN [main] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:18:06,051  WARN [main] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:26:39,967  WARN [Worker-10] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:26:39,967  WARN [Worker-10] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:27:05,341  WARN [Worker-7] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:27:05,341  WARN [Worker-7] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:29:58,680  WARN [Worker-10] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:29:58,681  WARN [Worker-10] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:32:14,671  WARN [Worker-10] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:32:14,672  WARN [Worker-10] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:32:21,880  WARN [Worker-12] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:32:21,880  WARN [Worker-12] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 17:32:29,601 ERROR [Worker-12] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-01-15 17:32:29,601 ERROR [Worker-12] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-01-15 17:32:29,601 ERROR [Worker-12] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-01-15 17:33:08,044  WARN [Worker-17] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 17:33:08,044  WARN [Worker-17] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 18:18:37,046  WARN [Worker-29] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 18:18:37,046  WARN [Worker-29] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 18:18:40,578  WARN [Worker-28] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 18:18:40,578  WARN [Worker-28] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 18:19:11,665  WARN [Worker-23] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 18:19:11,665  WARN [Worker-23] - ScalaProject - Project Breeding Game runs on platform default installation.
+2015-01-15 21:22:51,235  WARN [Worker-44] - ScalaProject - Project Breeding Game has platform default sourceLevel.
+2015-01-15 21:22:51,235  WARN [Worker-44] - ScalaProject - Project Breeding Game runs on platform default installation.

@@ -3,9 +3,6 @@ package main
 import processing.core._
 
 
-import odors._
-
-
 
 
 
