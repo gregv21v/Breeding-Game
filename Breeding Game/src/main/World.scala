@@ -29,7 +29,7 @@ class World(var pApp: PApplet) {
 	def render {
 	    for(i <- 0 until CREATURE_COUNT)
 	    {
-	      creatures(i).render
+	      creatures(i).draw
 	    }
 	}
   

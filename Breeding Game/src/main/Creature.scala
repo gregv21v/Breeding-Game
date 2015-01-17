@@ -3,12 +3,8 @@ package main
 import processing.core._
 
 
-<<<<<<< HEAD
+
 //import odors._
-
-
-=======
->>>>>>> origin/master
 
 
 
@@ -80,7 +76,7 @@ class Creature(var id: Int, var pApp: PApplet) {
     }
    	
    
-   	def render {
+   	def draw {
    		pApp.fill(color);
    		pApp.ellipse(position.x, position.y, radius, radius);
    	}

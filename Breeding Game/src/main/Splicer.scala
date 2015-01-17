@@ -7,6 +7,6 @@ package main
 import processing.core._
 
 
-class Splicer(var pApp: PApplet) extends Station(pApp){
+class Splicer(pApp: PApplet) extends Station(pApp){
   
 }
