@@ -16,11 +16,10 @@ object Sketch extends PApplet {
   }
   override def draw {
     background(255, 255, 255)
-    //world.render
+    world.render
     world.attractions
     world.movement
-    
-    
+   
     player.draw
   }
   

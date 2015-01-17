@@ -32,6 +32,6 @@ class Player(var pApp: PApplet) {
   
   def draw {
     pApp.fill(255, 0, 0)
-    pApp.ellipse(position.x, position.y, radius*2, radius*2)
+    pApp.rect(position.x, position.y, radius*2, radius*2)
   }
 }
