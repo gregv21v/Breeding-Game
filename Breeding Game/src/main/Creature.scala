@@ -14,7 +14,7 @@ class Creature(var id: Int, var pApp: PApplet) {
    	var destination = position
    	var movingTowards = false
    	var dna = new DNA(pApp)
-   	var attractedTo: Array[String] = Array()
+   	var attractedTo: Array[String] = _
    	var odor: String = ""
    
   
@@ -40,29 +40,29 @@ class Creature(var id: Int, var pApp: PApplet) {
    
 
    	def move {
-      //println(id + " : ")
-      //println("\tPosition: " + position)
       
    		var direction = destination.get
    		direction.sub(position)
    		direction.normalize()
    		
-      //println("\tDistance: " + destination.dist(position))
+      
    		if(destination.dist(position) <= 0.01f)
    			movingTowards = false
    		  
    		if(movingTowards) {
    			position.add(direction)
       }
-      //println("\tDirection: " + direction)
-   		
-   		
-   		
+
    	}
+    
+    def clicked: Boolean = {
+      Math.pow(pApp.mouseX - position.x, 2) + Math.pow(pApp.mouseY - position.y, 2) <= Math.pow(radius, 2) 
+    }
     
     
     def isAttractedTo(creature: Creature) = attractedTo.contains(creature.odor)
     
+    ///////////////////////////////////////
     def moveTowards(dest: PVector){
       destination = dest
       movingTowards = true
@@ -72,9 +72,9 @@ class Creature(var id: Int, var pApp: PApplet) {
       destination = creature.position
       movingTowards = true
     }
-   	
+   	///////////////////////////////////////
    
-   	def render {
+   	def draw {
    		pApp.fill(color);
    		pApp.ellipse(position.x, position.y, radius, radius);
    	}

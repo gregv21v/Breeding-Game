@@ -1,6 +1,6 @@
 package main
 
-import processing.core.PApplet
+import processing.core._
 
 object Sketch extends PApplet {
   var world: World = _
@@ -11,12 +11,11 @@ object Sketch extends PApplet {
     world = new World(this)
     player = new Player(this)
     
-    world.print
     
   }
   override def draw {
     background(255, 255, 255)
-    world.render
+    world.draw
     world.attractions
     world.movement
    
@@ -30,6 +29,14 @@ object Sketch extends PApplet {
       case 'a' => player.moveLeft
       case 's' => player.moveDown
       case 'd' => player.moveRight
+    }
+  }
+  
+  override def mousePressed {
+    var creature: Creature = null
+    if(mouseButton == PConstants.LEFT) {
+      creature = world.clicked
+      creature.color = color(0, 0, 255)
     }
   }
   

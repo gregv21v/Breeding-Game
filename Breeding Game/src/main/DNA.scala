@@ -65,5 +65,8 @@ class DNA(var pApp: PApplet){
     else
       value
   }
+  
+  
+
 
 }

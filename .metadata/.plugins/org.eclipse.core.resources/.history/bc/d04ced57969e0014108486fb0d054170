@@ -1,0 +1,17 @@
+package main
+
+
+import processing.core._
+
+
+/*
+ * 
+ */
+class Rope {
+  private var start = new PVector(0, 0)
+  private var end = new PVector(0, 0)
+  
+  private var creature1: Creature = _
+  private var creature2: Creature = _
+
+}

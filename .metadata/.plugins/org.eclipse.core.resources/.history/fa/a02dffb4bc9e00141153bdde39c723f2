@@ -1,0 +1,10 @@
+package main
+
+
+import processing.core._
+
+class Wall(pApp: PApplet) {
+  
+  var color = 
+
+}
