@@ -1,0 +1,14 @@
+package main
+
+import scala.collection.mutable.Map
+
+class DNARules {
+  
+  var rules = Array.ofDim[String](10)
+  
+  
+  def generateRules {
+    
+  }
+
+}

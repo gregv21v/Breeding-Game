@@ -1,0 +1,12 @@
+package main
+
+class DNARules {
+  
+  var rules: Map = _
+  
+  
+  def generateRules {
+    
+  }
+
+}

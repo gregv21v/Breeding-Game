@@ -5,7 +5,7 @@ import processing.core._
 class Player(var pApp: PApplet) {
   var position = new PVector(20, 20, 0)
   var radius = 20
-  val speed = 20
+  var speed = 20
   
   
   
@@ -27,6 +27,22 @@ class Player(var pApp: PApplet) {
   
   def moveDown {
     position.y += speed
+  }
+  
+  
+  def move(keys: Array[Boolean]){
+    if(keys(0)) {
+      moveUp
+    }
+    if(keys(1)) {
+      moveLeft
+    }
+    if(keys(2)) {
+      moveDown
+    }
+    if(keys(3)) {
+      moveRight
+    }
   }
   
   

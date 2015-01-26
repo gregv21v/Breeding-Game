@@ -1,15 +1,21 @@
+/*
+ * World: Holds the player, creatures, and any other game object
+ *        The world also takes care of the objects interacting with each other via their repective methods.
+ */
+
 package main
 
 import processing.core._
 import scala.util._
 import scala.collection.mutable._
 
-class World(var pApp: PApplet) {
-	val CREATURE_COUNT = 20;
-	val creatures = Array.ofDim[Creature](CREATURE_COUNT)
+class World(pApp: PApplet) {
+	private val CREATURE_COUNT = 20;
+	private val creatures = Array.ofDim[Creature](CREATURE_COUNT)
+  var player = new Player(pApp)
   var rope = new Rope(pApp)
   
-  val odors = Array("Poison", "Gas", "Rubber", "Oil")
+  private val odors = Array("Poison", "Gas", "Rubber", "Oil")
 
   
 	for(i <- 0 until CREATURE_COUNT)
@@ -24,6 +30,7 @@ class World(var pApp: PApplet) {
 	
   rope.attachStart(creatures(0))
   rope.attachEnd(creatures(1))
+  player.speed = 5
   
   def clicked: Creature = {
     for(creature <- creatures) {
@@ -33,18 +40,13 @@ class World(var pApp: PApplet) {
     }
     null
   }
-  
-  
-	
-	
-	
 
-	
 	def draw {
 	    for(i <- 0 until CREATURE_COUNT)
 	    {
 	      creatures(i).draw
 	    }
+      player.draw
       rope.draw
 	}
   
@@ -66,8 +68,6 @@ class World(var pApp: PApplet) {
     {
        creatures(i).move
     }
-    
-   
   }
   
   def print {

@@ -9,7 +9,8 @@ object DNA {
 
 
 class DNA(var pApp: PApplet){
-  private var sequence = "";
+  private var sequence = ""
+  private var rules = new DNARules()
    
   
   
