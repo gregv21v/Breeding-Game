@@ -10,11 +10,8 @@ object DNA {
 
 class DNA(var pApp: PApplet){
   private var sequence = "";
-   
-  
-  
-  def view = println(sequence)
 
+  def view = println(sequence)
   
   def encode(value: Int) {
     

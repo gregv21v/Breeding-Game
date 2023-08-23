@@ -6,18 +6,13 @@ class Player(var pApp: PApplet) {
   var position = new PVector(20, 20, 0)
   var radius = 20
   val speed = 20
-  
-  
-  
-  
-  
+
   def moveLeft {
     position.x -= speed
   }
   
   def moveRight {
     position.x += speed
-    
   }
   
   

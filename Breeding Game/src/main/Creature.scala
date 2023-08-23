@@ -3,12 +3,7 @@ package main
 import processing.core._
 
 
-<<<<<<< HEAD
-//import odors._
 
-
-=======
->>>>>>> origin/master
 
 
 
